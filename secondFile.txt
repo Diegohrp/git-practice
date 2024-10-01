@@ -1,5 +1,5 @@
-Second file 1
-Second file 2
+[updated from git_2]
+[updated from git_2]
 Second file 3
 Second file 4
 Second file 5
