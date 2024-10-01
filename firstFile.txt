@@ -2,8 +2,8 @@
 [updated git_1]
 First file 3
 First file 4
-First file 5
-First file 6
+[updated git_1 folder2]
+[updated git_1 folder2]
 First file 7
 First file 8
 [updated git_1]
