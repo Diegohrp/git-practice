@@ -1,5 +1,5 @@
-First file 1
-First file 2
+[updated git_1]
+[updated git_1]
 First file 3
 First file 4
 First file 5
